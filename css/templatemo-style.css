@@ -174,7 +174,7 @@ h1,h2,h3,h4,h5
 		/* @TODO - Use image once properly edited to read text on top of */
         background: url('../images/desaturated.png');
         background-size: contain;
-        background-position: center right;
+        background-position: center;
         background-repeat: no-repeat;
         padding-top: 120px;
         padding-bottom: 140px;
