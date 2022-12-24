@@ -171,9 +171,10 @@ h1,h2,h3,h4,h5
 /* start home */
 #home
 	{
-		    /* @TODO - Use image once properly edited to read text on top of */
-        background: url('../images/desaturated_NOTACTUALPHOTO.png');
-        background-size: cover;
+		/* @TODO - Use image once properly edited to read text on top of */
+        background: url('../images/desaturated.png');
+        background-size: contain;
+        background-position: center right;
         background-repeat: no-repeat;
         padding-top: 120px;
         padding-bottom: 140px;
